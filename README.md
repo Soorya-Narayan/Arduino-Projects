@@ -17,6 +17,8 @@ Feel free to browse, learn, and get inspired.
 |  | 7 Segment Display  |
 | 	 | 8x8 Display |
 | **Microprocessors**  | Arduino UNO  |
+| *  | ESP32  |
+|  | ESP32 CAM  |
 | **Sensors**  | Water Sensor  |
 | | Humidity & Temperature Sensor |
 |  | Sound Sensor |
